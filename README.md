@@ -1,2 +1,2 @@
-# EchoSpace
+# EchoMind
 Tedx talks recommender
